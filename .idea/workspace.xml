@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e1c7545-1404-4490-a3c1-6772069cd997" name="변경" comment="Add husky package&#10;- Add pre-commit test" />
+    <list id="49cebb6f-9ff0-4a05-887f-3a0841e18fd4" name="idea" comment="idea files" />
+    <list id="ecc8d801-15cf-420b-8936-da1735bccc94" name="temp" comment="temp" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="jest_setting" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="initialize_nextjs" />
+                    <option name="lastUsedInstant" value="1660930453" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="jest_setting" />
+                    <option name="lastUsedInstant" value="1660927145" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1660830833" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="2DX1kCgmweSiVr2dyOUtUjFhOvM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "js.linters.configure.manually.selectedeslint": "true",
+    "last_opened_file_path": "C:/All_Workspace/Next-blog",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "nodejs_package_manager_path": "npm",
+    "prettier.import.notification.dismissed": "true",
+    "prettierjs.PrettierConfiguration.Package": "C:\\All_Workspace\\next-plate\\node_modules\\prettier",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "C:\\All_Workspace\\next-plate\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\All_Workspace\next-plate\.husky" />
+      <recent name="C:\All_Workspace\next-plate\env\.jest" />
+      <recent name="C:\All_Workspace\next-plate\env" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5e1c7545-1404-4490-a3c1-6772069cd997" name="변경" comment="" />
+      <changelist id="49cebb6f-9ff0-4a05-887f-3a0841e18fd4" name="idea" comment="idea files" />
+      <changelist id="ecc8d801-15cf-420b-8936-da1735bccc94" name="temp" comment="" />
+      <created>1660830755941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660830755941</updated>
+      <workItem from="1660830758244" duration="1082000" />
+      <workItem from="1660898849974" duration="2401000" />
+      <workItem from="1660912058462" duration="1365000" />
+      <workItem from="1660913453914" duration="5929000" />
+      <workItem from="1660927038349" duration="3522000" />
+      <workItem from="1660964517141" duration="2097000" />
+      <workItem from="1660999465984" duration="5469000" />
+    </task>
+    <task id="LOCAL-00001" summary="use npx next.js">
+      <created>1660910349346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660910349346</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add eslint, prettier default setting">
+      <created>1660912395176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660912395176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add eslint, prettier default setting">
+      <created>1660912640081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660912640081</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modify prettier setting&#10;and:&#10;- Add readme">
+      <created>1660914493101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660914493101</updated>
+    </task>
+    <task id="LOCAL-00005" summary="temp save">
+      <created>1660927106960</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660927106960</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add jest package&#10;- Render and http message test complete&#10;and:&#10;- Add tsconfig alias&#10;- Modify readme">
+      <created>1660930418115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660930418115</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Modify eslint rule&#10;- Add jsx and tsx file test rule">
+      <created>1660999599401</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660999599401</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add husky package">
+      <created>1660999823550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660999823550</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add husky package&#10;- Add pre-commit">
+      <created>1661000409382</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661000409382</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add husky package&#10;- Add pre-commit">
+      <created>1661001576580</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661001576580</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add husky package&#10;- Add pre-commit">
+      <created>1661001848560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661001848560</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add husky package&#10;- Add pre-commit">
+      <created>1661001990120</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661001990120</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add eslint setting&#10;- no-console and test file setting">
+      <created>1661003866642</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661003866642</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add eslint setting&#10;- no-console and test file setting">
+      <created>1661003927008</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661003927008</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add husky package&#10;- Add pre-commit test">
+      <created>1661004050491</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004050491</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add husky package&#10;- Add pre-commit test">
+      <created>1661004134268</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004134268</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add husky package&#10;- Add pre-commit test">
+      <created>1661004233614</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004233614</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add husky package&#10;- Add pre-commit test">
+      <created>1661004312307</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004312307</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add husky package&#10;- Add pre-commit test">
+      <created>1661004470065</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004470065</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add husky package&#10;- Add pre-commit test">
+      <created>1661004832943</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1661004832943</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="initialize_nextjs" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="use npx next.js" />
+    <MESSAGE value="Add eslint, prettier default setting" />
+    <MESSAGE value="Modify prettier setting&#10;and:&#10;- Add readme" />
+    <MESSAGE value="temp save" />
+    <MESSAGE value="Add jest package&#10;- Render and http message test complete&#10;and:&#10;- Add tsconfig alias&#10;- Modify readme" />
+    <MESSAGE value="Modify eslint rule&#10;- Add jsx and tsx file test rule" />
+    <MESSAGE value="Add husky package" />
+    <MESSAGE value="Add husky package&#10;- Add pre-commit" />
+    <MESSAGE value="Add eslint setting&#10;- no-console and test file setting" />
+    <MESSAGE value="Add husky package&#10;- Add pre-commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add husky package&#10;- Add pre-commit test" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

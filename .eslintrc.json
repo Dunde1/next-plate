@@ -3,14 +3,23 @@
   "parserOptions": {
     "project": "./tsconfig.json"
   },
+  "rules": {
+    "no-console": "warn"
+  },
   "env": {
     "node": true
-  },
-  "rules": {
   },
   "extends": [
     "next/core-web-vitals",
     "plugin:@typescript-eslint/recommended",
     "plugin:prettier/recommended"
+  ],
+  "overrides": [
+    {
+      "files": "**/*.test.+(jsx|tsx)",
+      "rules": {
+        "react/react-in-jsx-scope": "error"
+      }
+    }
   ]
 }
