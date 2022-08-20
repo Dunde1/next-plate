@@ -28,3 +28,13 @@
 - references
   - [blog :: next.js에서 jest 설치](https://yoonho-devlog.tistory.com/175)
   - [identity-obj-proxy 오류 해결](https://stackoverflow.com/questions/52814985/undefined-returned-when-using-identity-obj-proxy-with-typescript-with-jest)
+  - [공식 문서](https://jestjs.io/)
+
+### husky
+
+- config
+  - `pre-commit`: `jest`를 사용하여 커밋 전 관련 파일 테스트 수행
+
+
+- references
+  - [공식 문서](https://typicode.github.io/husky/#/)
