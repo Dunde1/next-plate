@@ -23,14 +23,11 @@
       "@components/*": [
         "components/*"
       ],
-      "@styles/*": [
-        "styles/*"
-      ],
       "@pages/*": [
         "pages/*"
       ],
-      "@hooks/*": [
-        "hooks/*"
+      "@common/*": [
+        "common/*"
       ]
     }
   },
