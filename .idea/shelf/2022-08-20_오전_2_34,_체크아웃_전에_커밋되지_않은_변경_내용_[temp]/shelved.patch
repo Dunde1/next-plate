@@ -1,0 +1,48 @@
+Index: pages/api/hello.test.ts
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pages/api/hello.test.ts b/pages/api/hello.test.ts
+new file mode 100644
+--- /dev/null	(date 1660929777547)
++++ b/pages/api/hello.test.ts	(date 1660929777547)
+@@ -0,0 +1,19 @@
++import { createMocks } from 'node-mocks-http';
++import handler from '@pages/api/hello';
++
++describe('/api/hello', () => {
++  it('api', async () => {
++    const { req, res } = createMocks({
++      method: 'GET',
++    });
++
++    await handler(req, res);
++
++    expect(res._getStatusCode()).toBe(200);
++    expect(JSON.parse(res._getData())).toEqual(
++      expect.objectContaining({
++        name: 'John Doe',
++      })
++    );
++  });
++});
+Index: pages/index.test.tsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pages/index.test.tsx b/pages/index.test.tsx
+new file mode 100644
+--- /dev/null	(date 1660928563886)
++++ b/pages/index.test.tsx	(date 1660928563886)
+@@ -0,0 +1,9 @@
++import { render, screen } from '@testing-library/react';
++import Home from '@pages/index';
++
++describe('home', () => {
++  it('render', () => {
++    render(<Home />);
++    expect(screen.getByRole('heading', { name: /welcome to next\.js!/i }));
++  });
++});
